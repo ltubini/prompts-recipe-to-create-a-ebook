@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/CAMBIO.wepb"
     width="400"  
 />
 </p>
